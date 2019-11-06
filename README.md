@@ -2,7 +2,8 @@
 Module for contact us
 
 ##### Cloning module
-Clone modules by going to project root folder.
+Clone modules by navigate to your project root folder.
+
 `cd modules` 
 
 `git clone https://github.com/rahul05ranjan/contact`
